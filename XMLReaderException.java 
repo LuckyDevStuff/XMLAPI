@@ -1,0 +1,7 @@
+package de.lucky.simple.xml;
+
+public class XMLReadException extends Exception {
+	public XMLReadException(String message) {
+		super(message);
+	}
+}
